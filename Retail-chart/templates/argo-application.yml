@@ -14,7 +14,7 @@ spec:
         userprofile:
           activeVersion: blue
   destination:
-    server: https://murali-aks-cluster-dns-obc9sb3u.hcp.israelcentral.azmk8s.io:443
+    server: https://9D0657FD283AB2A9BFFF9AB9A7CB7C89.gr7.us-west-2.eks.amazonaws.com
     namespace: retail
   syncPolicy:
     automated:
